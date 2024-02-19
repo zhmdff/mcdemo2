@@ -1,0 +1,22 @@
+.column-button {
+    width: 100px;
+    height: 100px; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 15px;
+    /* Additional styling can be added here */
+}
+
+.row {
+    display: flex;
+    /* Add row styling if needed */
+}
+
+.col {
+    flex: 1;
+    margin: 3px; /* Adjust margin as needed */
+    /* Add column styling if needed */
+}

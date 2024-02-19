@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Skydash Admin</title>
+  <link rel="stylesheet" href="/resources/vendors/feather/feather.css">
+  <link rel="stylesheet" href="/resources/vendors/ti-icons/css/themify-icons.css">
+  <link rel="stylesheet" href="/resources/vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="/resources/css/vertical-layout-light/style.css">
+  <link rel="shortcut icon" href="/resources/images/favicon.png" />  
+</head>
+
+<body>
+  <div class="container-scroller">
+    <div class="container-fluid page-body-wrapper full-page-wrapper">
+      <div class="content-wrapper d-flex align-items-center auth px-0">
+        <div class="row w-100 mx-0">
+          <div class="col-lg-4 mx-auto">
+            <div class="auth-form-light text-left py-5 px-4 px-sm-5">
+              <div class="brand-logo">
+                <img src="/resources/images/logo.png" alt="logo">
+              </div>
+              <h4>Hello! WASSSUP BITCHES</h4>
+              <h6 class="font-weight-light">qaqan duzeldibde bes</h6>
+              <form class="pt-3">
+                <div class="mt-3">
+                    <!-- Add an ID to each button for easier selection -->
+                    <button type="button" id="1" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">City</button>
+                    <button type="button" id="2" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">Village</button>
+                    <button type="button" id="3" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">Nether</button>
+                    <button type="button" id="4" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">End</button>
+                    <button type="button" id="5" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">Herobrine</button>
+                </div>
+            </form>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- content-wrapper ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+  <!-- plugins:js -->
+  <script src="/resources/vendors/js/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page -->
+  <!-- End plugin js for this page -->
+  <!-- inject:js -->
+  <script src="/resources/js/off-canvas.js"></script>
+  <script src="/resources/js/hoverable-collapse.js"></script>
+  <script src="/resources/js/template.js"></script>
+  <script src="/resources/js/settings.js"></script>
+  <script src="/resources/js/todolist.js"></script>
+  <!-- endinject -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        // Add click event listeners to each button
+        $('#1').click(function() {
+            sendRequest("tp zhmdff -751.42 -34.00 607.49");
+        });
+        $('#2').click(function() {
+            sendRequest("tp zhmdff -1379.89 108.94 1796.42");
+        });
+        $('#3').click(function() {
+            sendRequest("execute in minecraft:the_nether run tp zhmdff -183.63 33.00 231.70");
+        });
+        $('#4').click(function() {
+            sendRequest("execute in minecraft:the_end run tp zhmdff -70.46 59.00 -19.50");
+        });
+        $('#5').click(function() {
+            sendRequest(`summon minecraft:zombie ~ ~ ~ {ArmorItems:[{id:"minecraft:netherite_helmet",Count:1,tag:{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}},{id:"minecraft:netherite_chestplate",Count:1,tag:{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}},{id:"minecraft:netherite_leggings",Count:1,tag:{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}},{id:"minecraft:netherite_boots",Count:1,tag:{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}},],HandItems:[{id:"minecraft:netherite_sword",Count:1,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}},{id:"minecraft:totem_of_undying",Count:1}],HandDropChances:[2.0F,2.0F]}`);
+        });
+
+        // Function to send AJAX request to server
+        function sendRequest(text) {
+            $.ajax({
+                type: 'POST',
+                url: '/', // Change this URL to match your server endpoint
+                data: { user_text: text },
+                success: function(response) {
+                    console.log('Response:', response);
+                },
+                error: function(error) {
+                    console.error('Error:', error);
+                }
+            });
+        }
+    });
+</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,156 @@
+id: 6064, name: GG, cost: 1
+id: 5827, name: Ice Cream Cone, cost: 1
+id: 5655, name: Rose, cost: 1
+id: 5269, name: TikTok, cost: 1
+id: 5523, name: Fire, cost: 1
+id: 6246, name: Thumbs Up, cost: 1
+id: 6247, name: Heart, cost: 1
+id: 6784, name: Cake Slice, cost: 1
+id: 6788, name: Glow Stick, cost: 1
+id: 6890, name: Love you, cost: 1
+id: 9698, name: Candy Cane, cost: 1
+id: 7934, name: Heart Me, cost: 1
+id: 9139, name: Team Bracelet, cost: 2
+id: 5487, name: Finger Heart, cost: 5
+id: 5994, name: Turkish coffee, cost: 5
+id: 8890, name: Pink shoes, cost: 5
+id: 9111, name: Popcorn, cost: 5
+id: 6425, name: Kalpak, cost: 7
+id: 10053, name: Rice glue balls, cost: 9
+id: 8243, name: Cheer You Up, cost: 9
+id: 8913, name: Rosa, cost: 10
+id: 6560, name: Tiny Diny, cost: 10
+id: 10055, name: Chocolate, cost: 10
+id: 5658, name: Perfume, cost: 20
+id: 6426, name: Dombra, cost: 20
+id: 5879, name: Doughnut, cost: 30
+id: 6495, name: Golden Gamepad, cost: 30
+id: 5659, name: Paper Crane, cost: 99
+id: 6097, name: Little Crown, cost: 99
+id: 6104, name: Cap, cost: 99
+id: 6427, name: Hat and Mustache, cost: 99
+id: 8130, name: Like-Pop, cost: 99
+id: 6432, name: Star, cost: 99
+id: 5465, name: Mishka Bear, cost: 100
+id: 5524, name: Tsar, cost: 100
+id: 5585, name: Confetti, cost: 100
+id: 5660, name: Hand Hearts, cost: 100
+id: 7121, name: Marvelous Confetti, cost: 100
+id: 5509, name: Sunglasses, cost: 199
+id: 5586, name: Hearts, cost: 199
+id: 5880, name: Lock and Key, cost: 199
+id: 6437, name: Garland Headpiece, cost: 199
+id: 6671, name: Love You, cost: 199
+id: 6713, name: Cheer For You, cost: 199
+id: 8358, name: Panther Paws, cost: 199
+id: 8442, name: Flower Festival, cost: 199
+id: 8589, name: Suitcase, cost: 199
+id: 9094, name: Driver Hat, cost: 199
+id: 9389, name: Juicy Tomato, cost: 199
+id: 9797, name: Sparklers, cost: 199
+id: 5325, name: Tulip Box, cost: 200
+id: 6007, name: Boxing Gloves, cost: 299
+id: 6265, name: Duck, cost: 299
+id: 6267, name: Corgi, cost: 299
+id: 6418, name: Easter Bunny, cost: 299
+id: 9465, name: Fruit Friends, cost: 299
+id: 9696, name: Elf’s hat, cost: 299
+id: 9799, name: Santa Claus’s Cap, cost: 299
+id: 9112, name: Camping, cost: 300
+id: 6821, name: Gamer Cyber Mask, cost: 399
+id: 9825, name: Magic Rhythm, cost: 399
+id: 8914, name: Forever Rosa, cost: 399
+id: 5731, name: Coral, cost: 499
+id: 8244, name: Hands Up, cost: 499
+id: 5549, name: Ballet Dancer, cost: 500
+id: 7168, name: Money Gun, cost: 500
+id: 8637, name: Shashlik, cost: 500
+id: 10056, name: Spaghetti Kiss, cost: 500
+id: 7122, name: Gem Gun, cost: 500
+id: 5897, name: Swan, cost: 699
+id: 9113, name: Suncatcher, cost: 800
+id: 5978, name: Train, cost: 899
+id: 6233, name: Travel with You, cost: 999
+id: 9717, name: Lucky Airdrop Box, cost: 999
+id: 9138, name: Trending Figure, cost: 999
+id: 5587, name: Gold Mine, cost: 1000
+id: 6199, name: Email Message, cost: 1000
+id: 6200, name: Mirror Bloom, cost: 1000
+id: 6781, name: Watermelon Love, cost: 1000
+id: 9498, name: Blooming Ribbons, cost: 1000
+id: 9522, name: Exclusive Spark, cost: 1000
+id: 7123, name: Shiny air balloon, cost: 1000
+id: 6090, name: Fireworks, cost: 1088
+id: 5651, name: Garland, cost: 1500
+id: 5955, name: Champion, cost: 1500
+id: 7467, name: Chasing the Dream, cost: 1500
+id: 9824, name: Lover’s Lock, cost: 1500
+id: 8245, name: Here We Go, cost: 1799
+id: 8277, name: Love Drop, cost: 1800
+id: 9798, name: New Year Table, cost: 1899
+id: 6033, name: Make-up Box, cost: 1999
+id: 6348, name: Rabbit, cost: 1999
+id: 6789, name: Star of Red Carpet, cost: 1999
+id: 6834, name: Gift Box, cost: 1999
+id: 6862, name: Cooper Flies Home, cost: 1999
+id: 7529, name: Mystery Firework, cost: 1999
+id: 9301, name: Baby Dragon, cost: 2000
+id: 10052, name: Panda skydiving, cost: 2000
+id: 6820, name: Whale diving, cost: 2150
+id: 8590, name: Jetski, cost: 2199
+id: 9697, name: Santa’s House, cost: 2200
+id: 5765, name: Motorcycle, cost: 2988
+id: 8889, name: Pink Dream, cost: 2988
+id: 9300, name: Illumination, cost: 2999
+id: 9468, name: Rhythmic Bear, cost: 2999
+id: 5652, name: Ferris Wheel, cost: 3000
+id: 6563, name: Meteor Shower, cost: 3000
+id: 9499, name: Golden Party, cost: 3000
+id: 6835, name: Gift Box, cost: 3999
+id: 8441, name: Sakura Train, cost: 3999
+id: 6148, name: Flower Overflow, cost: 4000
+id: 9584, name: Cosy Nights, cost: 4000
+id: 9194, name: Neon Caravan, cost: 4088
+id: 5767, name: Private Jet, cost: 4888
+id: 6646, name: Leon the Kitten, cost: 4888
+id: 7124, name: Signature Jet, cost: 4888
+id: 5938, name: Pool Party, cost: 4999
+id: 8469, name: Wolf, cost: 5000
+id: 9500, name: Flying Jets, cost: 5000
+id: 9523, name: Exclusive Jet, cost: 5000
+id: 8591, name: Star Beach, cost: 6000
+id: 9467, name: Lili the Leopard, cost: 6599
+id: 6790, name: Celebration Time, cost: 6999
+id: 8247, name: Happy Party, cost: 6999
+id: 6089, name: Sports Car, cost: 7000
+id: 8420, name: Star Throne, cost: 7999
+id: 7764, name: Star Throne, cost: 7999
+id: 8916, name: Leon and Lili, cost: 9699
+id: 6149, name: Interstellar, cost: 10000
+id: 6203, name: Sunset Speedway, cost: 10000
+id: 8419, name: Red Lightning, cost: 12000
+id: 8755, name: Mountains, cost: 12000
+id: 8912, name: Rosa Nebula, cost: 15000
+id: 9466, name: Amusement Park, cost: 17000
+id: 9114, name: Diamond flight, cost: 18000
+id: 8248, name: Fly Love, cost: 19999
+id: 6751, name: TikTok Shuttle, cost: 20000
+id: 9501, name: Yacht, cost: 20000
+id: 9524, name: Exclusive Yacht, cost: 20000
+id: 7125, name: Premium Shuttle, cost: 20000
+id: 7319, name: Phoenix, cost: 25999
+id: 7400, name: Adam’s Dream, cost: 25999
+id: 8354, name: Griffin, cost: 25999
+id: 7610, name: Dragon Flame, cost: 26999
+id: 6369, name: Lion, cost: 29999
+id: 8563, name: Golden sports car, cost: 29999
+id: 8391, name: Sam the Whale, cost: 30000
+id: 7823, name: Leon and Lion, cost: 34000
+id: 8623, name: Zeus, cost: 34000
+id: 8381, name: Seal and Whale, cost: 34500
+id: 7312, name: TikTok Universe+, cost: 34999
+id: 8582, name: TikTok Stars, cost: 39999
+id: 8651, name: Thunder Falcon, cost: 39999
+id: 9092, name: Fire Phoenix, cost: 41999
+id: 9427, name: Pegasus, cost: 42999
+id: 9072, name: TikTok Universe, cost: 44999
